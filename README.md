@@ -22,11 +22,12 @@ This project shows the steps I took and the prerequisites for the installation o
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Enable Internet Information Service (IIS) 
+- Install web platform installer
+- Install MySQL; Setup username and password
+- Install C++ Redistributable
+- Configure permissions
+- Install osTicket
 
 <h2>Installation Steps</h2>
 
