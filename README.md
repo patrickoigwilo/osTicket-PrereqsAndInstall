@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Installation and Prerequisites</h1>
-This project shows the steps I took and the prerequisites for installing the open-source help desk ticketing system osTicket.<br />
+This project shows my installation steps and the prerequisites for setting up the open-source help desk ticketing system osTicket.<br />
 
 
 <h2>Video Demonstration</h2>
@@ -35,6 +35,8 @@ This project shows the steps I took and the prerequisites for installing the ope
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+<p> ![image](https://github.com/patrickoigwilo/osticket-prereqs/assets/162601853/6ee60808-c4f4-41d8-81b1-1c66622862c6) </p>
+
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
