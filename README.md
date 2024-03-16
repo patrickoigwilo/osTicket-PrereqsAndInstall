@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Installation and Prerequisites</h1>
-This project shows the steps I took and the prerequisites for the installation of the open-source help desk ticketing system osTicket.<br />
+This project shows the steps I took and the prerequisites for installing the open-source help desk ticketing system osTicket.<br />
 
 
 <h2>Video Demonstration</h2>
@@ -27,7 +27,8 @@ This project shows the steps I took and the prerequisites for the installation o
 - Install MySQL; Setup username and password
 - Install C++ Redistributable
 - Configure permissions
-- Install osTicket
+- Install and Setup osTicket
+- Configure Service Level Agreements (SLAs)
 
 <h2>Installation Steps</h2>
 
