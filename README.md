@@ -27,7 +27,7 @@ This project shows my installation steps and the prerequisites for installing an
 - Install MySQL; Setup username and password
 - Install C++ Redistributable
 - Configure permissions
-- Install and Setup osTicket
+- Install and Setup 
 - Configure Service Level Agreements (SLAs)
 
 <h2>Installation Steps</h2>
