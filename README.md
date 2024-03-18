@@ -62,4 +62,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   <h3> Attach image </h3>
   <h4> Just copy-paste </h4>
   <h5> et voila! </h5>
+  ![image](https://github.com/patrickoigwilo/osticket-prereqs/assets/162601853/9fe31d38-2618-4844-9ddf-af7518b8373c)
+
 </p>
