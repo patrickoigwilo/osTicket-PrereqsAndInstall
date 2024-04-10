@@ -1,14 +1,13 @@
-<p align="center">
-<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
-</p>
+<h1>osTicket (Open-Source Ticketing Software) Installation and Prerequisites</h1>
 
-<h1>osTicket - Installation and Prerequisites</h1>
-This project shows my installation steps and the prerequisites for installing and setting up the open-source help desk ticketing system osTicket.<br />
+![image](https://github.com/patrickoigwilo/osTicket-PrereqsAndInstall/assets/162601853/bea41c06-de8e-4e36-a392-fba79043eb80)
 
+<h2>Project Summary:</h2>
+This project shows the prerequisites for installing and setting up the open-source help desk ticketing system osTicket, and how I installed it.<br />
 
-<h2>Video Demonstration</h2>
+><h2>Video Demonstration</h2>
 
-- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
+>- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
 
 <h2>Environments and Technologies Used</h2>
 
