@@ -11,8 +11,8 @@ This project shows the prerequisites for installing and setting up the open-sour
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
+- Microsoft Azure (virtual machines/cloud environment)
+- Remote Desktop Connection application
 - Internet Information Services (IIS)
 
 <h2>Operating Systems Used </h2>
