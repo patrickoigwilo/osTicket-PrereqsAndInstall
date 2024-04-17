@@ -37,11 +37,12 @@ This project shows the prerequisites for installing and setting up the open-sour
    ![image](https://github.com/patrickoigwilo/osTicket-PrereqsAndInstall/assets/162601853/db4b1b22-2539-4cc5-998c-141216c2e667)
    ![image](https://github.com/patrickoigwilo/osTicket-PrereqsAndInstall/assets/162601853/d3a82501-a460-4790-b30b-38e27325bbbe)
    ![image](https://github.com/patrickoigwilo/osTicket-PrereqsAndInstall/assets/162601853/ff251077-617d-46bb-ac9f-19e5d7b1dd5d)
+3.   Next, I downloaded and installed osTicket on the Windows VM.
+   ![image](https://github.com/patrickoigwilo/osTicket-PrereqsAndInstall/assets/162601853/c67a8328-cb76-458a-acec-30d91dd88e1f)
+   ![image](https://github.com/patrickoigwilo/osTicket-PrereqsAndInstall/assets/162601853/2a0c5f45-262d-4c24-8cc0-5b5a57116891)
 
 
-
-
-4.  
+5.   
 
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
