@@ -36,6 +36,8 @@ This project shows the prerequisites for installing and setting up the open-sour
 2.  I downloaded and installed PHP Manager for IIS, the Rewrite Module and the MySQL server.
    ![image](https://github.com/patrickoigwilo/osTicket-PrereqsAndInstall/assets/162601853/db4b1b22-2539-4cc5-998c-141216c2e667)
    ![image](https://github.com/patrickoigwilo/osTicket-PrereqsAndInstall/assets/162601853/d3a82501-a460-4790-b30b-38e27325bbbe)
+   ![image](https://github.com/patrickoigwilo/osTicket-PrereqsAndInstall/assets/162601853/ff251077-617d-46bb-ac9f-19e5d7b1dd5d)
+
 
 
 
