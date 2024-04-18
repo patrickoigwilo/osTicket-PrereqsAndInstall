@@ -1,4 +1,4 @@
-<h1>osTicket (Open-Source Ticketing Software) Installation and Prerequisites</h1>
+<h1>osTicket (Open-Source Ticketing System) Installation and Prerequisites</h1>
 
 ![image](https://github.com/patrickoigwilo/osTicket-PrereqsAndInstall/assets/162601853/bea41c06-de8e-4e36-a392-fba79043eb80)
 
