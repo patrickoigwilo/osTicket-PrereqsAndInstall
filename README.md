@@ -40,37 +40,3 @@ This project shows the prerequisites for installing and setting up the open-sour
 3.   Next, I downloaded and installed osTicket on the Windows VM.
    ![image](https://github.com/patrickoigwilo/osTicket-PrereqsAndInstall/assets/162601853/c67a8328-cb76-458a-acec-30d91dd88e1f)
    ![image](https://github.com/patrickoigwilo/osTicket-PrereqsAndInstall/assets/162601853/2a0c5f45-262d-4c24-8cc0-5b5a57116891)
-
-
-5.   
-
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-  testing the microphone...
-  <h3> Attach image </h3>
-  <h4> Just copy-paste, not inside a paragraph tag</h4>
-  <h5> et voila! </h5>
-  
-</p>
-
-![image](https://github.com/patrickoigwilo/osticket-prereqs/assets/162601853/9fe31d38-2618-4844-9ddf-af7518b8373c)
